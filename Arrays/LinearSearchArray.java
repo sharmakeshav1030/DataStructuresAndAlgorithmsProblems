@@ -1,6 +1,6 @@
 
 /*
- * This is the java class deals with searching for the integer X in the given array/list using 'Linear Search'.
+ * This is the java class with a method which deals with searching for the integer X in the given array/list using 'Linear Search'.
  */
  
 public class LinearSearchArray{	
