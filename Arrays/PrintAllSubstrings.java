@@ -1,5 +1,5 @@
 /*
- * This is the java class deals with printing all the substrings of a given string.
+ * This is the java class with a method which deals with printing all the substrings of a given string.
  */
 
 public class PrintAllSubstrings {
