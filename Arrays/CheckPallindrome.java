@@ -1,5 +1,5 @@
 /*
- * This is the java class which finds out whether the given string is a pallindrome or not.
+ * This is the java class with a method which finds out whether the given string is a pallindrome or not.
  */
  
  public class CheckPallindrome {
