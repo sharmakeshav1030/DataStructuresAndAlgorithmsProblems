@@ -1,5 +1,5 @@
 /*
- * This is the java class which basically reverses the given string word wise.
+ * This is the java class with a method which basically reverses the given string word wise.
  */
  
 public class ReverseString {
