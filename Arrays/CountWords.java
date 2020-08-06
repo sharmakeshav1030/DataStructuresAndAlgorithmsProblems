@@ -1,5 +1,5 @@
 /*
- * This is the java class deals with counting the number of words in the string.
+ * This is the java class with a method that counts the number of words in the string.
  */
  
  public class CountWords {
