@@ -1,6 +1,6 @@
 /*
  * This is the java class with a method which prints the input in Spiral Form.
- * For a given two-dimensional integer array/list of size (N x M), print it in a spiral form. We need to print in the order followed for every iteration:
+ * For a given two-dimensional integer array/list of size (N x M), we need to print in the order followed for every iteration:
  * a. First row(left to right)
  * b. Last column(top to bottom)
  * c. Last row(right to left)
